@@ -18,7 +18,7 @@
 PS C:\xampp\htdocs\atividade> git init
 Reinitialized existing Git repository in C:/xampp/htdocs/atividade/.git/
 PS C:\xampp\htdocs\atividade> git add .
-PS C:\xampp\htdocs\atividade> git commit -m "primeiro commit : formulario php"
+PS C:\xampp\htdocs\atividade> git commit -m "primeiro commit : formulario php"git commit -m "primeiro commit : formulario php"
 [main (root-commit) 37ee3ff] primeiro commit : formulario php
  2 files changed, 65 insertions(+)
  create mode 100644 GET1/index.php
